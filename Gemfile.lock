@@ -40,10 +40,14 @@ GEM
       http_parser.rb (~> 0.6.0)
     erubis (2.7.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
+    eventmachine (1.2.7-x86-mingw32)
     execjs (2.7.0)
     fast_blank (1.0.0)
     fastimage (2.1.7)
     ffi (1.13.1)
+    ffi (1.13.1-x64-mingw32)
+    ffi (1.13.1-x86-mingw32)
     govuk_tech_docs (2.0.7)
       activesupport
       chronic (~> 0.10.2)
@@ -133,6 +137,10 @@ GEM
     multi_json (1.14.1)
     nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
+    nokogiri (1.10.8-x64-mingw32)
+      mini_portile2 (~> 2.4.0)
+    nokogiri (1.10.8-x86-mingw32)
+      mini_portile2 (~> 2.4.0)
     openapi3_parser (0.5.2)
       commonmarker (~> 0.17)
     padrino-helpers (0.13.3.4)
@@ -160,6 +168,8 @@ GEM
     sass (3.4.25)
     sassc (2.4.0)
       ffi (~> 1.9)
+    sassc (2.4.0-x64-mingw32)
+      ffi (~> 1.9)
     servolux (0.13.0)
     sprockets (4.0.0.beta10)
       concurrent-ruby (~> 1.0)
@@ -170,11 +180,17 @@ GEM
     tilt (2.0.10)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2020.1)
+      tzinfo (>= 1.0.0)
     uglifier (3.2.0)
       execjs (>= 0.3.0, < 3)
+    wdm (0.1.1)
 
 PLATFORMS
   ruby
+  x64-mingw32
+  x86-mingw32
+  x86-mswin32
 
 DEPENDENCIES
   govuk_tech_docs
