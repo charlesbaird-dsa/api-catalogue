@@ -16,4 +16,3 @@ jobs:
           bundle config path tmp/bundle
           bundle install --jobs 4 --retry 3
       - run: bundle exec rake build
-      - run: bundle exec rake publish
