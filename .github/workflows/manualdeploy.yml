@@ -29,5 +29,4 @@ jobs:
     - name: Deploy
       run: |
       echo "Updating Catalogue, ${{ github.event.inputs.name }}"
-      rm -rf build
       bundle exec rake publish
