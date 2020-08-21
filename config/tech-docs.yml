@@ -1,11 +1,11 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://alphagov.github.io/api-catalogue
+host: https://charlesbaird-dsa.github.io/api-catalogue
 http_prefix: /api-catalogue
 
 # Header-related options
 show_govuk_logo: false
 service_name: API Catalogue
-service_link: https://alphagov.github.io/api-catalogue
+service_link: https://charlesbaird-dsa.github.io/api-catalogue/
 phase: Alpha
 
 # Links to show on right-hand-side of header
@@ -32,4 +32,4 @@ max_toc_heading_level: 2
 prevent_indexing: false
 
 show_contribution_banner: true
-github_repo: alphagov/api-catalogue
+github_repo: https://github.com/charlesbaird-dsa/api-catalogue
