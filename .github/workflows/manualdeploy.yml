@@ -27,6 +27,4 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: Deploy
-      run: |
-      echo "Updating Catalogue, ${{ github.event.inputs.name }}"
-      bundle exec rake publish
+      run: bundle exec rake publish
