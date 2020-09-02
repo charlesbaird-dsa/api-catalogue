@@ -4,4 +4,4 @@ GovukTechDocs.configure(self)
 
 # use relative paths for links and sources
 activate :relative_assets
-set :relative_links, false 
+set :relative_links, true 
