@@ -1,5 +1,5 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://charlesbaird-dsa.github.io/api-catalogue
+host:
 http_prefix: /api-catalogue
 
 # Header-related options
