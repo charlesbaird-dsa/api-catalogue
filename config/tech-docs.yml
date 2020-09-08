@@ -1,5 +1,5 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://githo.gov
+host: https://alphagov.github.io/api-catalogue
 http_prefix: /api-catalogue
 
 # Header-related options
@@ -32,4 +32,4 @@ max_toc_heading_level: 4
 prevent_indexing: false
 
 show_contribution_banner: true
-github_repo: charlesbaird-dsa/api-catalogue
+github_repo: alphagov.github.io/api-catalogue
