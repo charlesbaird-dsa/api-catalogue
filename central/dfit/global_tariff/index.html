@@ -5,23 +5,23 @@
     <meta charset="utf-8">
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
 
-    <title>London Borough of Hackney APIs | API Catalogue</title>
+    <title>UK Global Tariff API | API Catalogue</title>
 
-    <link href="../../stylesheets/manifest.css" rel="stylesheet" />
+    <link href="../../../stylesheets/manifest.css" rel="stylesheet" />
 
-    <link rel="canonical" href="https://alphagov.github.io/api-catalogue/local/London-Borough-Hackney/">
+    <link rel="canonical" href="https://alphagov.github.io/api-catalogue/central/dfit/global_tariff/">
 
 
       <meta property="og:image" content="https://alphagov.github.io/api-catalogue/images/govuk-large.png" />
       <meta property="og:site_name" content="API Catalogue" />
-      <meta property="og:title" content="London Borough of Hackney APIs" />
+      <meta property="og:title" content="UK Global Tariff API" />
       <meta property="og:type" content="object" />
-      <meta property="og:url" content="https://alphagov.github.io/api-catalogue/local/London-Borough-Hackney/" />
+      <meta property="og:url" content="https://alphagov.github.io/api-catalogue/central/dfit/global_tariff/" />
       <meta property="twitter:card" content="summary" />
       <meta property="twitter:domain" content="alphagov.github.io" />
       <meta property="twitter:image" content="https://alphagov.github.io/api-catalogue/images/govuk-large.png" />
-      <meta property="twitter:title" content="London Borough of Hackney APIs | API Catalogue" />
-      <meta property="twitter:url" content="https://alphagov.github.io/api-catalogue/local/London-Borough-Hackney/" />
+      <meta property="twitter:title" content="UK Global Tariff API | API Catalogue" />
+      <meta property="twitter:url" content="https://alphagov.github.io/api-catalogue/central/dfit/global_tariff/" />
 
     
   </head>
@@ -272,19 +272,32 @@
 
         <div class="app-pane__content toc-open-disabled">
           <main id="content" class="technical-documentation" data-module="anchored-headings">
-            <h1 id="london-borough-of-hackney-apis">London Borough of Hackney APIs</h1><p>The API catalogue contains the following London Borough of Hackney APIs:</p>
-
+            <h1 id="department-for-international-trade-uk-global-tariff-api">Department for International Trade: UK Global Tariff API</h1><h2 id="base-url-links">Base URL links</h2>
 <ul>
-<li><a href="addresses/#addresses">Addresses</a></li>
+<li><a href="https://www.check-future-uk-trade-tariffs.service.gov.uk/">Base URL</a></li>
 </ul>
+<h2 id="docs-url-links">Docs URL links</h2>
+<ul>
+<li><a href="https://data.gov.uk/dataset/19890572-14b6-4d37-8a6d-6a5ec3b457fe/tariffs-to-trade-with-the-uk-from-1-january-2021">Documentation</a></li>
+</ul>
+<h2 id="description">Description</h2><p>The UK Global Tariff (UKGT) is the UK&rsquo;s first independent tariff policy which will replace the current Common External Tariff (CET) which applies until 31 December 2020. This tariff will enter into force on 1 January 2021. The UKGT will apply to all goods imported into the UK, unless an exception applies (such as a relief or tariff suspension), the goods come from countries that are part of the Generalised Scheme of Preferences, or the country importing from has a trade agreement with the UK. It only shows the tariffs that will be applied to goods at the border when they’re imported into the UK. It does not cover other import duties (such as VAT), the precise details of trade remedies measures, or other restrictions on imports, such as anti-dumping, countervailing or safeguards. For more information, see https://www.gov.uk/guidance/uk-tariffs-from-1-january-2021.</p>
+<p>This API lists how the tariff will change in the UKGT compared to the CET, split out by commodity code as specified to 8 or 10 digits by the 2020 Combined Nomenclature (CN). It includes a description for each code based on that standard. For each code, it includes the current duty expression under the CET and the new duty expression under the UKGT, with an additional field categorising the change (as &lsquo;no change&rsquo;, &#39;currency conversion&rsquo;, &#39;simplified&rsquo;, &#39;reduced&rsquo; or &#39;liberalised&rsquo;). The dataset also indicates where commodities are subject to a trade remedy, anti-dumping measure or suspension, or include an Autonomous Tariff Quota. Please see the guidance page for information on these terms and how the duty will change in these cases.</p>
+<p>You can use this data when you need to make a calculation against the new third country duties that will apply in the UK from 1 January 2021, or to understand the difference between the new duty and the existing EU third country duty. You cannot use this data to calculate the total cost of a future import because it does not include rates that apply for preferential tariffs, quotas, trade remedies, suspensions or other measures. You also cannot use this data to understand the commodity code hierarchy, because not all codes are present and some descriptions have been modified to make sense out of context and are not legally binding.</p>
+<p>API calls can be made using a GET request to <code>https://check-future-uk-trade-tariffs.service.gov.uk/api/global-uk-tariff{format}</code> where <strong>format</strong> is:
+- blank for JSON format
+- <code>.csv</code> for Comma Separated Variables format
+- <code>.xlsx</code> for Excel Spreadsheet format</p>
+<p>The API accepts the following optional URL query parameters:
+- <code>q</code> accepts a string, and will filter the results for commodities where any field contains that string. Separate words can appear anywhere, so that a search for <code>salmon trout</code> will only return commodities containing both <code>salmon</code> and <code>trout</code> without them having to be next to each other, or even in the same field.</p>
+<p>Example: <code>https://www.check-future-uk-trade-tariffs.service.gov.uk/api/global-uk-tariff?q=0301+trout</code></p>
 
             
           </main>
 
           <aside>
               <ul class="contribution-banner">
-                <li><a href="https://github.com/alphagov/api-catalogue/blob/master/source/local/London-Borough-Hackney/index.html.md.erb">View source</a></li>
-                <li><a href="https://github.com/alphagov/api-catalogue/issues/new?labels=bug&amp;title=Re:%20'London%20Borough%20of%20Hackney%20APIs'&amp;body=Problem%20with%20'London%20Borough%20of%20Hackney%20APIs'%20(https://alphagov.github.io/api-catalogue/local/London-Borough-Hackney/)">Report problem</a></li>
+                <li><a href="https://github.com/alphagov/api-catalogue/blob/master/source/central/dfit/global_tariff/index.html.md.erb">View source</a></li>
+                <li><a href="https://github.com/alphagov/api-catalogue/issues/new?labels=bug&amp;title=Re:%20'UK%20Global%20Tariff%20API'&amp;body=Problem%20with%20'UK%20Global%20Tariff%20API'%20(https://alphagov.github.io/api-catalogue/central/dfit/global_tariff/)">Report problem</a></li>
                 <li><a href="https://github.com/alphagov/api-catalogue">GitHub Repo</a></li>
               </ul>
           </aside>
@@ -295,7 +308,7 @@
 
         <ul class="govuk-footer__inline-list">
             <li class="govuk-footer__inline-list-item">
-              <a class="govuk-footer__link" href="../../accessibility.html">Technical Documentation Accessibility</a>
+              <a class="govuk-footer__link" href="../../../accessibility.html">Technical Documentation Accessibility</a>
             </li>
         </ul>
 
@@ -336,6 +349,6 @@
     </div>
 
     
-    <script src="../../javascripts/application.js"></script>
+    <script src="../../../javascripts/application.js"></script>
   </body>
 </html>
