@@ -58,32 +58,42 @@ def load_catalogue(tx, path)
   
   # build the source folder and the department folder structure
   FileUtils.mkdir_p "source"
+  FileUtils.mkdir_p "source/javascripts"
+  FileUtils.mkdir_p "source/stylesheets"
   FileUtils.cp("top.index.erb", "source/index.html.md.erb")
+  FileUtils.cp("javascripts/application.js", "source/javascripts/application.js")
+  FileUtils.cp_r("stylesheets/", "source/")
+  
   
   orgs = tx.query("SELECT ROW_NUMBER() OVER (ORDER BY organisation) RowNum, organisation, count(*) AS number, provider FROM catalogue GROUP BY organisation")
 
   orgs.each { |row|
-     puts "Building folder for #{row["provider"]}"
+    
      prov = row["provider"]
+     rank = row['RowNum'] * 10
+     puts "Building folder for #{row["provider"]}, #{rank}"
 
      folder_path = File.join("source", "#{prov}")
      FileUtils.mkdir_p folder_path
 
      File.open "#{folder_path}/index.html.md.erb", 'w' do |file|
      
-     file.write "---\ntitle: #{row["organisation"]}\nweight: #{row["RowNum"]}\n---\n\n# #{row["organisation"]} APIs\n\nThe API catalogue contains the following #{row["number"]} #{row["organisation"]} (#{row["provider"]}) APIs:\n\n"
+     #build headers for the deapartment index
+     file.write "---\ntitle: #{row["organisation"]}\nweight: #{rank}\n---\n\n# #{row["organisation"]} APIs\n\nThe API catalogue contains the following #{row["number"]} #{row["organisation"]} (#{row["provider"]}) APIs:\n\n"
 
+     #put each record in as a link
      provs = tx.query("SELECT name, maintainer, provider FROM catalogue WHERE provider = ? GROUP BY name", prov)
         provs.each { |nm| 
         link = nm['name'].gsub(" ","_") #replace spaces with underscores for links
-
+        link = link.gsub("/", "_")
+        
           file.write "- [#{nm['name']}](#{link}/)\n"
           
           # now build the folder and index for each API  
           api_pr = nm["provider"]
           api_name = nm["name"]
           api_link = nm['name'].gsub(" ","_") #replace spaces with underscores for links
-
+		  # now get each API
           apis = tx.query("SELECT ROW_NUMBER() OVER (ORDER BY name) RowNum, name, url, description, documentation, license, maintainer, provider, areaServed, startDate, endDate, organisation FROM catalogue WHERE provider = ? AND name = ? GROUP BY name", api_pr, api_name)
               apis.each { |api|
               folder_path = File.join("source", "#{api_pr}", "#{api_link}")
