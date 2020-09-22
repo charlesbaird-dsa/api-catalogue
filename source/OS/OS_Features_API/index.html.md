@@ -1,6 +1,6 @@
 ---
 title: OS Features API
-weight: 1
+weight: 10
 ---
 
 # OS: OS Features API
@@ -24,8 +24,5 @@ Buildings, roads, greenspaces and much more. Get direct access to the most detai
  - England, Scotland, Wales
 
 ## Start Date:
- - 2020-07-01
-
-## Expiry Date:
  - 2020-07-01
 

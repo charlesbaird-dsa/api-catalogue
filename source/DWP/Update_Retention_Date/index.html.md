@@ -1,15 +1,9 @@
 ---
 title: Update Retention Date
-weight: 1
+weight: 10
 ---
 
 # DWP: Update Retention Date
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Allows to apply or lift a hold on closed document records in the Document Reposi
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

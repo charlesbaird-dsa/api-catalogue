@@ -1,6 +1,6 @@
 ---
 title: Open Geography portal
-weight: 1
+weight: 10
 ---
 
 # ONS: Open Geography portal
@@ -11,21 +11,6 @@ weight: 1
 ## Documentation URL:
  - [https://developers.arcgis.com/rest/services-reference/get-started-with-the-services-directory.htm](https://developers.arcgis.com/rest/services-reference/get-started-with-the-services-directory.htm)
 
-## Contact:
- - [](mailto:)
-
 ## Description:
 The Open Geography portal from the Office for National Statistics (ONS) provides free and open access to the definitive source of geographic products, web applications, story maps, services and APIs. All content is available under the Open Government Licence v3.0, except where otherwise stated.
-
-## License:
- - 
-
-## Geographic Area:
- - 
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

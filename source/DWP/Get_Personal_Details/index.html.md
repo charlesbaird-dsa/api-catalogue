@@ -1,15 +1,9 @@
 ---
 title: Get Personal Details
-weight: 1
+weight: 10
 ---
 
 # DWP: Get Personal Details
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Retrieves a range of personal details for a person.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

@@ -1,15 +1,9 @@
 ---
 title: Get Entitlement
-weight: 1
+weight: 10
 ---
 
 # DWP: Get Entitlement
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Retrieves the benefit award details related to a PIP claim.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

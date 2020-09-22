@@ -1,6 +1,6 @@
 ---
 title: OS Vector Tile API
-weight: 1
+weight: 10
 ---
 
 # OS: OS Vector Tile API
@@ -24,8 +24,5 @@ Slick, quick vector maps. Integrate Ordnance Survey's up-to-date, detailed maps 
  - England, Scotland, Wales
 
 ## Start Date:
- - 2020-07-01
-
-## Expiry Date:
  - 2020-07-01
 

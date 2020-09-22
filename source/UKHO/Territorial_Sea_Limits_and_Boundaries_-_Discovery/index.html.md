@@ -1,6 +1,6 @@
 ---
 title: Territorial Sea Limits and Boundaries - Discovery
-weight: 1
+weight: 10
 ---
 
 # UKHO: Territorial Sea Limits and Boundaries - Discovery
@@ -24,8 +24,5 @@ The UK Territorial Sea Limits and Boundaries WMS service, from the UK Hydrograph
  - UK EEZ
 
 ## Start Date:
- - in service
-
-## Expiry Date:
  - in service
 

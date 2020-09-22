@@ -1,6 +1,6 @@
 ---
 title: UK Tidal API - Foundation
-weight: 1
+weight: 10
 ---
 
 # UKHO: UK Tidal API - Foundation
@@ -24,8 +24,5 @@ The ADMIRALTY UK Tidal API provides authoritative source of tidal height predict
  - UK EEZ
 
 ## Start Date:
- - in service
-
-## Expiry Date:
  - in service
 

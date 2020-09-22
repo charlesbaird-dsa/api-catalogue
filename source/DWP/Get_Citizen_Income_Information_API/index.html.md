@@ -1,15 +1,9 @@
 ---
 title: Get Citizen Income Information API
-weight: 1
+weight: 10
 ---
 
 # DWP: Get Citizen Income Information API
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Retrieves current and historical information regarding a Citizens income.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

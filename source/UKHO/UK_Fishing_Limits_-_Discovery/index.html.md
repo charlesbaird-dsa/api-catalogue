@@ -1,6 +1,6 @@
 ---
 title: UK Fishing Limits - Discovery
-weight: 1
+weight: 10
 ---
 
 # UKHO: UK Fishing Limits - Discovery
@@ -24,8 +24,5 @@ The UK Fishing Limits WMS service, from the UK Hydrographic Office, provides the
  - UK EEZ
 
 ## Start Date:
- - in service
-
-## Expiry Date:
  - in service
 

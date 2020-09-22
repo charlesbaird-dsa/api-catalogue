@@ -1,6 +1,6 @@
 ---
 title: GOV.UK Trade Tariff API
-weight: 1
+weight: 10
 ---
 
 # HMRC: GOV.UK Trade Tariff API
@@ -22,10 +22,4 @@ The GOV.UK Trade Tariff API makes it easy to access UK Trade Tariff data from ht
 
 ## Geographic Area:
  - UK
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

@@ -1,15 +1,9 @@
 ---
 title: Get Communications
-weight: 1
+weight: 10
 ---
 
 # DWP: Get Communications
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Retrieves communication list with a customer about his/her PIP.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

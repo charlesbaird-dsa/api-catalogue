@@ -1,6 +1,6 @@
 ---
 title: Environment Agency
-weight: 50
+weight: 60
 ---
 
 # Environment Agency APIs

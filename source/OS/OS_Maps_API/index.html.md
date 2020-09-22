@@ -1,6 +1,6 @@
 ---
 title: OS Maps API
-weight: 1
+weight: 10
 ---
 
 # OS: OS Maps API
@@ -24,8 +24,5 @@ Add Ordnance Survey's detailed maps to your GIS, web or mobile applications with
  - England, Scotland, Wales
 
 ## Start Date:
- - 2020-07-01
-
-## Expiry Date:
  - 2020-07-01
 

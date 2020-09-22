@@ -1,6 +1,6 @@
 ---
 title: OS Download API
-weight: 1
+weight: 10
 ---
 
 # OS: OS Download API
@@ -24,8 +24,5 @@ The OS Downloads API is a service that lets users automate the discovery and dow
  - England, Scotland, Wales
 
 ## Start Date:
- - 2020-07-01
-
-## Expiry Date:
  - 2020-07-01
 

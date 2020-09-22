@@ -1,15 +1,9 @@
 ---
 title: Address Lookup
-weight: 1
+weight: 10
 ---
 
 # DWP: Address Lookup
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ DWP single, strategic solution for looking up addresses including fuzzy search a
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

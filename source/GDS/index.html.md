@@ -1,6 +1,6 @@
 ---
 title: Government Digital Service
-weight: 70
+weight: 80
 ---
 
 # Government Digital Service APIs

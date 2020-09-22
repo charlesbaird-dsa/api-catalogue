@@ -1,6 +1,6 @@
 ---
 title: GOV.UK Organisations
-weight: 1
+weight: 10
 ---
 
 # GDS: GOV.UK Organisations
@@ -11,21 +11,6 @@ weight: 1
 ## Documentation URL:
  - [https://docs.publishing.service.gov.uk/apis/whitehall/api.html](https://docs.publishing.service.gov.uk/apis/whitehall/api.html)
 
-## Contact:
- - [](mailto:)
-
 ## Description:
 The organisations API provides information about government organisations.
-
-## License:
- - 
-
-## Geographic Area:
- - 
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

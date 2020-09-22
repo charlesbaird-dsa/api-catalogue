@@ -1,6 +1,6 @@
 ---
 title: OS Places API
-weight: 1
+weight: 10
 ---
 
 # OS: OS Places API
@@ -24,8 +24,5 @@ Our secure, scalable, and resilient address look-up web service, OS Places API l
  - England, Scotland, Wales
 
 ## Start Date:
- - 2020-07-01
-
-## Expiry Date:
  - 2020-07-01
 

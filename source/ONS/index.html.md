@@ -1,6 +1,6 @@
 ---
 title: Office of National Statistics
-weight: 110
+weight: 120
 ---
 
 # Office of National Statistics APIs

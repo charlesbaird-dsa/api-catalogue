@@ -1,15 +1,9 @@
 ---
 title: Manage Earnings Threshold
-weight: 1
+weight: 10
 ---
 
 # DWP: Manage Earnings Threshold
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Allows to set and update different earnings thresholds for for a claimant.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

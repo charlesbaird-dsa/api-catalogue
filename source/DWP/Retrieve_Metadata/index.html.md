@@ -1,15 +1,9 @@
 ---
 title: Retrieve Metadata
-weight: 1
+weight: 10
 ---
 
 # DWP: Retrieve Metadata
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Allows to request metadata for a document.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

@@ -1,6 +1,6 @@
 ---
 title: UK Exclusive Economic Zone - Discovery
-weight: 1
+weight: 10
 ---
 
 # UKHO: UK Exclusive Economic Zone - Discovery
@@ -24,8 +24,5 @@ The UK Exclusive Economic Zone WMS service, from the UK Hydrographic Office, pro
  - UK EEZ
 
 ## Start Date:
- - in service
-
-## Expiry Date:
  - in service
 

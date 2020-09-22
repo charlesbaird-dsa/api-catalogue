@@ -1,6 +1,6 @@
 ---
 title: Aquaculture - Discovery
-weight: 1
+weight: 10
 ---
 
 # UKHO: Aquaculture - Discovery
@@ -24,8 +24,5 @@ The UK Aquaculture Discovery service, from the UK Hydrographic Office, provides 
  - UK EEZ
 
 ## Start Date:
- - in service
-
-## Expiry Date:
  - in service
 

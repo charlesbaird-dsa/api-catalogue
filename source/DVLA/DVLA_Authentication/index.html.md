@@ -1,6 +1,6 @@
 ---
 title: DVLA Authentication
-weight: 1
+weight: 10
 ---
 
 # DVLA: DVLA Authentication
@@ -11,21 +11,6 @@ weight: 1
 ## Documentation URL:
  - [https://developer-portal.driver-vehicle-licensing.api.gov.uk/authentication-api-description.html](https://developer-portal.driver-vehicle-licensing.api.gov.uk/authentication-api-description.html)
 
-## Contact:
- - [](mailto:)
-
 ## Description:
 The DVLA Authentication API provides authentication, change/new password and change API Key services for users of DVLA secure APIs.
-
-## License:
- - 
-
-## Geographic Area:
- - 
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

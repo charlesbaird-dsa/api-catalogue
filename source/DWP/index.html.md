@@ -1,6 +1,6 @@
 ---
 title: Department of Work and Pensions
-weight: 30
+weight: 40
 ---
 
 # Department of Work and Pensions APIs

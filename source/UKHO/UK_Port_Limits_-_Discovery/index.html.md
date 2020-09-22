@@ -1,6 +1,6 @@
 ---
 title: UK Port Limits - Discovery
-weight: 1
+weight: 10
 ---
 
 # UKHO: UK Port Limits - Discovery
@@ -24,8 +24,5 @@ The UK Port Limits WMS service, from the UK Hydrographic Office, provides a vali
  - UK EEZ
 
 ## Start Date:
- - in service
-
-## Expiry Date:
  - in service
 

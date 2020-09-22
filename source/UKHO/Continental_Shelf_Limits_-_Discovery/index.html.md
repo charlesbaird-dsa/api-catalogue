@@ -1,6 +1,6 @@
 ---
 title: Continental Shelf Limits - Discovery
-weight: 1
+weight: 10
 ---
 
 # UKHO: Continental Shelf Limits - Discovery
@@ -24,8 +24,5 @@ The UK Continental Shelf Limits Discovery service, part of the ADMIRALTY Marine 
  - UK EEZ
 
 ## Start Date:
- - in service
-
-## Expiry Date:
  - in service
 

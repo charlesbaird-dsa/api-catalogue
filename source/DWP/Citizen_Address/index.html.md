@@ -1,15 +1,9 @@
 ---
 title: Citizen Address
-weight: 1
+weight: 10
 ---
 
 # DWP: Citizen Address
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Details all current (and optionally historic) address linked to a person.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

@@ -1,15 +1,9 @@
 ---
 title: Document Upload
-weight: 1
+weight: 10
 ---
 
 # DWP: Document Upload
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Allows for the upload of a document and its metadata.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

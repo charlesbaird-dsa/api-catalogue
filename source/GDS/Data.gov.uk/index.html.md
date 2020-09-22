@@ -1,6 +1,6 @@
 ---
 title: Data.gov.uk
-weight: 1
+weight: 10
 ---
 
 # GDS: Data.gov.uk
@@ -11,21 +11,6 @@ weight: 1
 ## Documentation URL:
  - [https://guidance.data.gov.uk/get_data/api_documentation/](https://guidance.data.gov.uk/get_data/api_documentation/)
 
-## Contact:
- - [](mailto:)
-
 ## Description:
 This API allows you to access the data.gov.uk dataset metadata in a machine-readable way, as JSON. A dataset's metadata includes details such as title, description, usage licence, and a list of 'resources', which describe each data file that maks up the dataset. Each resource contains a format, description and URL (e.g. for download).
-
-## License:
- - 
-
-## Geographic Area:
- - 
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

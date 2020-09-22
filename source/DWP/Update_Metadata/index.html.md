@@ -1,15 +1,9 @@
 ---
 title: Update Metadata
-weight: 1
+weight: 10
 ---
 
 # DWP: Update Metadata
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Allows to update metadata for a document in the Document Repository System.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

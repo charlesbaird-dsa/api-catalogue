@@ -1,15 +1,9 @@
 ---
 title: Payment Dates
-weight: 1
+weight: 10
 ---
 
 # DWP: Payment Dates
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Payment Dates provides regional calendar information required for banking and in
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

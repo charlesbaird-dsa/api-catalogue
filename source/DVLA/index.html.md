@@ -1,6 +1,6 @@
 ---
 title: Driver and Vehicle Licensing Agency
-weight: 40
+weight: 50
 ---
 
 # Driver and Vehicle Licensing Agency APIs

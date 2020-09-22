@@ -1,6 +1,6 @@
 ---
 title: GOV.UK Content
-weight: 1
+weight: 10
 ---
 
 # GDS: GOV.UK Content
@@ -11,21 +11,6 @@ weight: 1
 ## Documentation URL:
  - [https://content-api.publishing.service.gov.uk/](https://content-api.publishing.service.gov.uk/)
 
-## Contact:
- - [](mailto:)
-
 ## Description:
 GOV.UK Content API makes it easy to access the data used to render content on https://www.gov.uk. For any page hosted on GOV.UK you can use the path to access the content and associated metadata for a page.
-
-## License:
- - 
-
-## Geographic Area:
- - 
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

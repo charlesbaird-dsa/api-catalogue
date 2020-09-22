@@ -1,6 +1,6 @@
 ---
 title: AVCS Online Discovery API
-weight: 1
+weight: 10
 ---
 
 # UKHO: AVCS Online Discovery API
@@ -24,8 +24,5 @@ The ADMIRALTY Vector Chart Service (AVCS) Online Discovery API provides free acc
  - South Coast of England
 
 ## Start Date:
- - in service
-
-## Expiry Date:
  - in service
 

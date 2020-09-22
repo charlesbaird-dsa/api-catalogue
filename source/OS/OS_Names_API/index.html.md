@@ -1,6 +1,6 @@
 ---
 title: OS Names API
-weight: 1
+weight: 10
 ---
 
 # OS: OS Names API
@@ -24,8 +24,5 @@ A free, searchable, reliable database to help you find and verify populated plac
  - England, Scotland, Wales
 
 ## Start Date:
- - 2020-07-01
-
-## Expiry Date:
  - 2020-07-01
 

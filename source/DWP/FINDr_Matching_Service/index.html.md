@@ -1,15 +1,9 @@
 ---
 title: FINDr Matching Service
-weight: 1
+weight: 10
 ---
 
 # DWP: FINDr Matching Service
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Identifies the correct service identifier for a given set of biographic data.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

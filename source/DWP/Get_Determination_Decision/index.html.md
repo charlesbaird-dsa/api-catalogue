@@ -1,15 +1,9 @@
 ---
 title: Get Determination Decision
-weight: 1
+weight: 10
 ---
 
 # DWP: Get Determination Decision
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Retrieves decision details for all cases related to a PIP claim.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

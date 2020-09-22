@@ -1,6 +1,6 @@
 ---
 title: OS Linked Identifiers API
-weight: 1
+weight: 10
 ---
 
 # OS: OS Linked Identifiers API
@@ -24,8 +24,5 @@ The OS Linked Identifiers API allows users to access the valuable relationships 
  - England, Scotland, Wales
 
 ## Start Date:
- - 2020-07-01
-
-## Expiry Date:
  - 2020-07-01
 

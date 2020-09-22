@@ -1,15 +1,9 @@
 ---
 title: Get Interest Details
-weight: 1
+weight: 10
 ---
 
 # DWP: Get Interest Details
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Allows users to update a citizen's interest record.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 

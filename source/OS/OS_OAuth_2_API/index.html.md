@@ -1,6 +1,6 @@
 ---
 title: OS OAuth 2 API
-weight: 1
+weight: 10
 ---
 
 # OS: OS OAuth 2 API
@@ -20,12 +20,6 @@ OAuth 2 is an authentication mechanism for APIs that allows applications to use 
 ## License:
  - https://osdatahub.os.uk/legal/termsConditions
 
-## Geographic Area:
- - 
-
 ## Start Date:
- - 2020-07-01
-
-## Expiry Date:
  - 2020-07-01
 

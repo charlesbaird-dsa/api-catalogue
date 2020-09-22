@@ -1,15 +1,9 @@
 ---
 title: View Earnings
-weight: 1
+weight: 10
 ---
 
 # DWP: View Earnings
-
-## Endpoint URL:
- - []()
-
-## Documentation URL:
- - []()
 
 ## Contact:
  - [integration.technologyplatforms@dwp.gsi.gov.uk](mailto:integration.technologyplatforms@dwp.gsi.gov.uk)
@@ -22,10 +16,4 @@ Allows to view earnings data, within the supplied date period, for a claimant.
 
 ## Geographic Area:
  - Digital
-
-## Start Date:
- - 
-
-## Expiry Date:
- - 
 
