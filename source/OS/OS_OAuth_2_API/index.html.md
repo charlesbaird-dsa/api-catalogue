@@ -15,7 +15,7 @@ weight: 1
  - [Ordnance Survey - <osdatahubenquiries@os.uk>](mailto:Ordnance Survey - <osdatahubenquiries@os.uk>)
 
 ## Description:
-OAuth 2 is an authentication mechanism for APIs that allows applications to use time limited tokens for access to resources. A  common use case for the OAuth 2 API is when implementing a web application that uses the OS Data Hub APIs. 
+OAuth 2 is an authentication mechanism for APIs that allows applications to use time limited tokens for access to resources. A  common use case for the OAuth 2 API is when implementing a web application that uses the OS Data Hub APIs.
 
 ## License:
  - https://osdatahub.os.uk/legal/termsConditions
@@ -24,8 +24,8 @@ OAuth 2 is an authentication mechanism for APIs that allows applications to use 
  - 
 
 ## Start Date:
- - 01/07/2020
+ - 2020-07-01
 
 ## Expiry Date:
- - 01/07/2020
+ - 2020-07-01
 

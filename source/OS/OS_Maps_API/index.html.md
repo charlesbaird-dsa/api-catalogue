@@ -24,8 +24,8 @@ Add Ordnance Survey's detailed maps to your GIS, web or mobile applications with
  - England, Scotland, Wales
 
 ## Start Date:
- - 01/07/2020
+ - 2020-07-01
 
 ## Expiry Date:
- - 01/07/2020
+ - 2020-07-01
 

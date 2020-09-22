@@ -24,8 +24,8 @@ The OS Linked Identifiers API allows users to access the valuable relationships 
  - England, Scotland, Wales
 
 ## Start Date:
- - 01/07/2020
+ - 2020-07-01
 
 ## Expiry Date:
- - 01/07/2020
+ - 2020-07-01
 

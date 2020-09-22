@@ -24,8 +24,8 @@ Slick, quick vector maps. Integrate Ordnance Survey's up-to-date, detailed maps 
  - England, Scotland, Wales
 
 ## Start Date:
- - 01/07/2020
+ - 2020-07-01
 
 ## Expiry Date:
- - 01/07/2020
+ - 2020-07-01
 

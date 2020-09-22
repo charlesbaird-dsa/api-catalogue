@@ -24,8 +24,8 @@ A free, searchable, reliable database to help you find and verify populated plac
  - England, Scotland, Wales
 
 ## Start Date:
- - 01/07/2020
+ - 2020-07-01
 
 ## Expiry Date:
- - 01/07/2020
+ - 2020-07-01
 

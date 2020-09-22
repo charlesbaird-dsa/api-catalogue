@@ -24,8 +24,8 @@ The OS Downloads API is a service that lets users automate the discovery and dow
  - England, Scotland, Wales
 
 ## Start Date:
- - 01/07/2020
+ - 2020-07-01
 
 ## Expiry Date:
- - 01/07/2020
+ - 2020-07-01
 

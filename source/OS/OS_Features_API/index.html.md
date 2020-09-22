@@ -24,8 +24,8 @@ Buildings, roads, greenspaces and much more. Get direct access to the most detai
  - England, Scotland, Wales
 
 ## Start Date:
- - 01/07/2020
+ - 2020-07-01
 
 ## Expiry Date:
- - 01/07/2020
+ - 2020-07-01
 
